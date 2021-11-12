@@ -2,11 +2,11 @@
 
 ## A tool for memorizing
 
-Based on neuroscience theory for better memorization, learnt4life is a very simple tool designed to help people memorize things that really matters to them.
+Based on neuroscience theory for better memorization, learnt4life is a very simple tool designed to help people memorize things that really matter to them.
 
-## Adds reminders in your google calendar
+## A tool that adds reminders automatically in your google calendar
 
-Just add a link or poetry line or whatever you want your brain to memorize and it will pop in your calendar at specific times and you'll learn this information for your whole lifetime.
+If you want your brain to memorize something (a link to some video, or poetry line or whatever you want), just paste it and it will pop in your calendar at the optimized times that will make you learn it best. Trust the science and you will end up knowing this information for your whole lifetime!
 
 
 ## Project next step
